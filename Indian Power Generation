@@ -1,1 +1,38 @@
+The study incorporates a total of 5 datasets. The initial dataset 7.1.1, measuring "access to electricity 
+(% of the population)" encompasses two sub-datasets: "access to electricity (% of rural population)" 
+and "access to electricity (% of urban population)" all sourced from the World Development Indicator 
+(The Energy Progress Report). The second dataset 7.2.1a focuses on "renewable energy consumption 
+(% of the total energy consumption)” obtained from the World Bank data catalogue.  
+The third dataset 7.2.1b shows the energy requirement vs availability chart showing the surplus/deficit 
+each year which was sourced from Central Electricity Authority of India. The fourth dataset 7.2.1c 
+shows us the existing installed capacity of Power Stations in each state of India in Megawatts, which 
+was obtained from the National Power Portal of India. In contrast, the fifth dataset 12.a.1, "renewable 
+energy-generating capacity," was derived from the Central Electricity Authority of India (Annual 
+Generation Report). 
+The datasets were created to serve as a guide to monitor India's progress towards the United Nations’ 
+SDGs, specifically SDGs 7 and 12. It aids interested parties in carrying out analysis and drawing 
+conclusions based on their specified inputs.  
+Data sets 1, 2 and 5 analyse the access of the population to electricity through renewable sources. Data 
+sets 3 and 4 were selected to provide insight into the limitations that exist in the renewable energy
+generating capacity in India. All collected data sets provide a clear view of the data concerning the 
+client's needs. Data sets 1 and 2 describe the data in percent (%) floating values, whereas Data sets 3, 
+4 and 5 describe the dataset in integers as well as floating points. The data sets are normalized to years, 
+indicators, and country. 
 
+
+The heat map showed that 3 states in India (Bihar, Chhattisgarh, Jharkhand) have a low 
+renewable energy generation capacity, with the lowest figure at 4.43%. It also showed that three of 
+the states have a high thermal generating capacity, i.e., the generation and usage of sources such as 
+diesel, coal, and more are remarkably high in comparison to the generation and usage of renewable 
+energy sources.  
+Therefore, it is recommended that the most viable option for ReNew Power to invest in and get an 
+optimum return on investment would be to invest in the increment of the generating capacity of the 
+underserved areas. The market area is presumed to be untapped, with the right resources and the new 
+partnership Renew Power has with other stakeholders in the market, it is a viable option. 
+Alternatively, Renew Power can also invest in states that have high thermal generating capacity, such 
+as (Maharashtra, Uttar Pradesh, and Madhya Pradesh). Although their renewable generating capacity 
+percentage is moderate, with an average ratio of 28%. A strategic approach would be to cut down on 
+thermal usage and increase the use of renewable energy sources. These states have more resources to 
+scale their renewable capacity as they have manufacturing hubs and are observed to have a high 
+demand for cleaner electricity. Therefore, if Renew Power is inclined to carry out high-scale work, 
+the identified states would be the most suitable options.
