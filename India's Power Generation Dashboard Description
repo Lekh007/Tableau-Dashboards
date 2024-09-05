@@ -1,12 +1,16 @@
-The study incorporates a total of 5 datasets. The initial dataset 7.1.1, measuring "access to electricity 
+The dashboard incorporates a total of 5 datasets. 
+- The initial dataset 7.1.1, measuring "access to electricity 
 (% of the population)" encompasses two sub-datasets: "access to electricity (% of rural population)" 
 and "access to electricity (% of urban population)" all sourced from the World Development Indicator 
-(The Energy Progress Report). The second dataset 7.2.1a focuses on "renewable energy consumption 
+(The Energy Progress Report). 
+- The second dataset 7.2.1a focuses on "renewable energy consumption 
 (% of the total energy consumption)” obtained from the World Bank data catalogue.  
-The third dataset 7.2.1b shows the energy requirement vs availability chart showing the surplus/deficit 
-each year which was sourced from Central Electricity Authority of India. The fourth dataset 7.2.1c 
+- The third dataset 7.2.1b shows the energy requirement vs availability chart showing the surplus/deficit 
+each year which was sourced from Central Electricity Authority of India. 
+- The fourth dataset 7.2.1c 
 shows us the existing installed capacity of Power Stations in each state of India in Megawatts, which 
-was obtained from the National Power Portal of India. In contrast, the fifth dataset 12.a.1, "renewable 
+was obtained from the National Power Portal of India. 
+- The fifth dataset 12.a.1, "renewable 
 energy-generating capacity," was derived from the Central Electricity Authority of India (Annual 
 Generation Report). 
 The datasets were created to serve as a guide to monitor India's progress towards the United Nations’ 
@@ -30,7 +34,8 @@ optimum return on investment would be to invest in the increment of the generati
 underserved areas. The market area is presumed to be untapped, with the right resources and the new 
 partnership Renew Power has with other stakeholders in the market, it is a viable option. 
 Alternatively, Renew Power can also invest in states that have high thermal generating capacity, such 
-as (Maharashtra, Uttar Pradesh, and Madhya Pradesh). Although their renewable generating capacity 
+as (Maharashtra, Uttar Pradesh, and Madhya Pradesh). 
+Although their renewable generating capacity 
 percentage is moderate, with an average ratio of 28%. A strategic approach would be to cut down on 
 thermal usage and increase the use of renewable energy sources. These states have more resources to 
 scale their renewable capacity as they have manufacturing hubs and are observed to have a high 
